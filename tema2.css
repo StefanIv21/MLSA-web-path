@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    
+}
+#titlu{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+
+}
+.div1{
+    background-color: gray;
+    border: 3px solid black ;
+    max-width: 25%;
+    margin-left: 10px;
+  
+   
+
+}
+.div2{
+    background-color: gray;
+    border: 3px solid black ;
+    max-width: 25%;
+   
+    
+
+}
+.div3
+{
+    background-color: gray;
+    border: 3px solid black ;
+    max-width: 25%;
+    margin-right: 10px;
+  
+}
+
+.toate{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+
+}
+.sus{
+    float:right;
+    background-color: brown;
+    
+    
+}
+.sus2{
+    float:right;
+    background-color:red;
+    color: white;
+    
+    
+}
+.sus3{
+    float:right;
+    background-color: yellow;
+    
+    
+}
+.paragraf{
+    padding: 10px;
+    
+}
